@@ -1,3 +1,9 @@
+*Introduccion* Las redes sociales han cambiado las relaciones humanas
+en nuestro tiempo, y su influencia es innegable. 
+
+Twitter es una de las redes sociales más importantes de la actualidad,
+tanto por número de usuarios como por influencia en nuestra vida. La
+importancia
 
 
 *Que* Twitter es una de las redes sociales de mayor crecimiento en los
@@ -19,6 +25,9 @@ ofrecer un tweet, como información multimedia (fotos, sonido,
 video...), información de geolocalización o información relativa a las
 conexiones entre personas.
 
+Para comenzar, analizaremos las herramientas ad-hoc más simples.
+Muchos lenguajes tienen librerias que actuan de interfaz para la API
+web de el propio twitter.
 
 
 
