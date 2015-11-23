@@ -1,0 +1,28 @@
+
+
+*Que* Twitter es una de las redes sociales de mayor crecimiento en los
+últimos años, alcanzando 500 millones de usuarios en Mayo de 2015, de
+los cuales más de 300 son usuarios activos.
+
+*Porque* El analisis de los tweets es util para gente de cualquier
+nivel, desde el usuario medio que simplemente esta interesado en ver
+cuales son los temas discutidos actualmente (trending topics), como el
+comunity manager de una empresa, interesado en comprobar cual ha sido
+el efecto de una nueva campaña publicitaria, del lanzamiento de un
+producto, o el efecto de una decisión empresarial.
+
+*Como* Para analizar tweets se puede utilizar herramientas que van
+desde lo mas simple (simples scripts ad-hoc, creados con librerias del
+lenguaje elegido y la ayuda de la API de Twitter) hasta sistemas
+capaces de analizar todo el rango de información que realmente puede
+ofrecer un tweet, como información multimedia (fotos, sonido,
+video...), información de geolocalización o información relativa a las
+conexiones entre personas.
+
+
+
+
+Bibliografía
+https://en.wikipedia.org/wiki/Timeline_of_Twitter
+https://en.wikipedia.org/wiki/Twitter
+https://www.tweetreach.com
