@@ -1,0 +1,22 @@
+*Como*
+# El Bloque del trabajo
+# Recorrer los distintos niveles a los que se puede analizar, el
+  razonamiento detras de cada uno de ellos
+# Niveles: A nivel de tweet-a nivel de trending
+# Herramientas: desde pequeños programas ad-hoc, creados tanto con la
+  propia API mediante peticiones HTTP que ofrece oficialmente la
+  propia Twitter (Y todas las librerias de los distintos lenguajes de
+  programacion, que ofrecen una capa de abstraccion sobre este
+  sistema); hasta los brutales sistemas de analisis completos que
+  siguen por ejemplo tendencias completas, desde su nacimiento hasta
+  su muerte
+Para analizar tweets se puede utilizar herramientas que van
+desde lo mas simple (simples scripts ad-hoc, creados con librerias del
+lenguaje elegido y la ayuda de la API de Twitter) hasta sistemas
+capaces de analizar todo el rango de información que realmente puede
+ofrecer un tweet, como información multimedia (fotos, sonido,
+video...), información de geolocalización o información relativa a las
+conexiones entre personas.
+Para comenzar, analizaremos las herramientas ad-hoc más simples.
+Muchos lenguajes tienen librerias que actuan de interfaz para la API
+web de el propio twitter.

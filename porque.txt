@@ -1,0 +1,11 @@
+*Porque*
+# Diferenciar segmentos de mercado interesados en el tema tratado en el trabajo
+# Comentar el nivel de interes de cada segmento de mercado
+# Comentar la razon de interes de cada segmento de mercado
+El analisis de los tweets es util para gente de cualquier
+nivel, desde el usuario medio que simplemente esta interesado en ver
+cuales son los temas discutidos actualmente (trending topics), como el
+comunity manager de una empresa, interesado en comprobar cual ha sido
+el efecto de una nueva campaña publicitaria, del lanzamiento de un
+producto, o el efecto de una decisión empresarial.
+
