@@ -4,3 +4,14 @@ http://pamorama.net/2010/04/26/20-top-twitter-monitoring-and-analytics-tools/
 https://www.brandwatch.com/2013/08/top-10-free-social-media-monitoring-tools/
 http://www.socialmediatoday.com/content/20-top-twitter-monitoring-and-analytics-tools
 https://blog.kissmetrics.com/10-twitter-tools/
+
+/*****************
+qué se analiza
+******************/
+https://unmetric.com/indepth-twitter-analytics/
+https://unmetric.com/social-media-benchmarking/
+
+/*****************
+impacto de las redes sociales
+******************/
+http://tuoutreach.com/2012/02/09/what-is-the-economic-impact-of-facebook-twitter-and-all-those-social-media-applications/
